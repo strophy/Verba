@@ -20,5 +20,11 @@ asyncio
 accelerate
 cohere==4.33
 requests
+#pypdf
 pypdf2
 pre-commit
+
+### addings
+#transformers
+#torch
+#accelerate

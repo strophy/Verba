@@ -39,6 +39,9 @@ setup(
         "cohere==4.33",
         "requests",
         "pypdf2",
+        #"pypdf",
+        #"torch",
+        #"transformers",
     ],
     extras_require={
         "dev": [
